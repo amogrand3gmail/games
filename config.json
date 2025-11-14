@@ -1,0 +1,7 @@
+{
+  "PID_FILE": "identy/server.pid",
+  "LOG_FILE": "log/server.log",
+  "HOST": "localhost",
+  "PORT": 8090,
+  "DOC_ROOT": "public"
+}
