@@ -1,0 +1,47 @@
+[Fri Nov 14 04:36:49 2025] PHP Warning:  Module "curl" is already loaded in Unknown on line 0
+[Fri Nov 14 04:36:49 2025] PHP 8.4.14 Development Server (http://localhost:8090) started
+[Fri Nov 14 04:43:44 2025] PHP Warning:  Module "curl" is already loaded in Unknown on line 0
+[Fri Nov 14 04:43:44 2025] Failed to listen on localhost:8090 (reason: Address already in use)
+[Fri Nov 14 04:44:01 2025] 127.0.0.1:54882 Accepted
+[Fri Nov 14 04:44:01 2025] 127.0.0.1:54882 [404]: GET / - No such file or directory
+[Fri Nov 14 04:44:01 2025] 127.0.0.1:54882 Closing
+[Fri Nov 14 04:44:01 2025] 127.0.0.1:54890 Accepted
+[Fri Nov 14 04:44:01 2025] 127.0.0.1:54906 Accepted
+[Fri Nov 14 04:44:03 2025] 127.0.0.1:54890 [404]: GET /favicon.ico - No such file or directory
+[Fri Nov 14 04:44:03 2025] 127.0.0.1:54890 Closing
+[Fri Nov 14 04:45:04 2025] 127.0.0.1:54906 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Nov 14 04:45:04 2025] 127.0.0.1:54906 Closing
+[Fri Nov 14 04:46:28 2025] 127.0.0.1:43686 Accepted
+[Fri Nov 14 04:46:28 2025] 127.0.0.1:43686 [404]: GET / - No such file or directory
+[Fri Nov 14 04:46:28 2025] 127.0.0.1:43686 Closing
+[Fri Nov 14 04:46:28 2025] 127.0.0.1:43690 Accepted
+[Fri Nov 14 04:46:28 2025] 127.0.0.1:43704 Accepted
+[Fri Nov 14 04:47:22 2025] 127.0.0.1:43690 [404]: GET / - No such file or directory
+[Fri Nov 14 04:47:22 2025] 127.0.0.1:43690 Closing
+[Fri Nov 14 04:48:20 2025] 127.0.0.1:43704 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Nov 14 04:48:20 2025] 127.0.0.1:43704 Closing
+[Fri Nov 14 04:48:20 2025] 127.0.0.1:45530 Accepted
+[Fri Nov 14 04:48:20 2025] 127.0.0.1:45530 [404]: GET / - No such file or directory
+[Fri Nov 14 04:48:20 2025] 127.0.0.1:45530 Closing
+[Fri Nov 14 04:48:20 2025] 127.0.0.1:45546 Accepted
+[Fri Nov 14 04:48:20 2025] 127.0.0.1:45556 Accepted
+[Fri Nov 14 04:49:41 2025] PHP Warning:  Module "curl" is already loaded in Unknown on line 0
+[Fri Nov 14 04:49:41 2025] PHP 8.4.14 Development Server (http://localhost:8090) started
+[Fri Nov 14 04:49:45 2025] 127.0.0.1:44618 Accepted
+[Fri Nov 14 04:49:45 2025] 127.0.0.1:44618 [200]: GET /
+[Fri Nov 14 04:49:45 2025] 127.0.0.1:44618 Closing
+[Fri Nov 14 04:49:45 2025] 127.0.0.1:44620 Accepted
+[Fri Nov 14 04:49:46 2025] 127.0.0.1:44624 Accepted
+[Fri Nov 14 04:50:00 2025] 127.0.0.1:44620 [200]: GET /.well-known/appspecific/com.chrome.devtools.json
+[Fri Nov 14 04:50:00 2025] 127.0.0.1:44620 Closing
+[Fri Nov 14 04:53:01 2025] 127.0.0.1:44624 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Nov 14 04:53:01 2025] 127.0.0.1:44624 Closing
+[Fri Nov 14 05:00:38 2025] PHP Warning:  Module "curl" is already loaded in Unknown on line 0
+[Fri Nov 14 05:00:38 2025] PHP 8.4.14 Development Server (http://localhost:8090) started
+[Fri Nov 14 05:01:16 2025] 127.0.0.1:41202 Accepted
+[Fri Nov 14 05:01:16 2025] 127.0.0.1:41202 [200]: GET /
+[Fri Nov 14 05:01:16 2025] 127.0.0.1:41202 Closing
+[Fri Nov 14 05:01:16 2025] 127.0.0.1:41206 Accepted
+[Fri Nov 14 05:01:16 2025] 127.0.0.1:41206 [200]: GET /.well-known/appspecific/com.chrome.devtools.json
+[Fri Nov 14 05:01:16 2025] 127.0.0.1:41206 Closing
+[Fri Nov 14 05:01:16 2025] 127.0.0.1:41218 Accepted
